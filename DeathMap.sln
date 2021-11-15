@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeathMap", "DeathMap\DeathMap.csproj", "{5C2688B2-3FB0-4DC5-B1FE-066D6BF76DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2688B2-3FB0-4DC5-B1FE-066D6BF76DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2688B2-3FB0-4DC5-B1FE-066D6BF76DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2688B2-3FB0-4DC5-B1FE-066D6BF76DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2688B2-3FB0-4DC5-B1FE-066D6BF76DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B322868-365D-4581-93A2-30C1DB7DD934}
+	EndGlobalSection
+EndGlobal
